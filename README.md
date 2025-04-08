@@ -73,6 +73,28 @@ Each model's performance was measured using:
 Most of the data used in this project is publicly available from:
 👉 [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/)
 
+### Following sources were used to gather data:
+CASE-SCHILLER Home Price Index - [https://fred.stlouisfed.org/series/CSUSHPISA](https://fred.stlouisfed.org/series/CSUSHPISA)
+
+Interest rates - [https://fred.stlouisfed.org/series/FEDFUNDS](https://fred.stlouisfed.org/series/FEDFUNDS)
+
+Unemployment rate - [https://fred.stlouisfed.org/series/UNRATE](https://fred.stlouisfed.org/series/UNRATE)
+
+Working Population - [https://fred.stlouisfed.org/series/LFWA64TTUSM647S](https://fred.stlouisfed.org/series/LFWA64TTUSM647S)
+
+Employment rate - [https://fred.stlouisfed.org/series/LREM64TTUSM156S](https://fred.stlouisfed.org/series/LREM64TTUSM156S)
+
+Consumer price index (CPI) - [https://fred.stlouisfed.org/series/CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL)
+
+Real Median Household Income - [https://fred.stlouisfed.org/series/MEHOINUSA672N](https://fred.stlouisfed.org/series/MEHOINUSA672N)
+
+Per Capita GDP - [https://fred.stlouisfed.org/series/A939RX0Q048SBEA](https://fred.stlouisfed.org/series/A939RX0Q048SBEA)
+
+Construction price index - [https://fred.stlouisfed.org/series/WPUSI012011](https://fred.stlouisfed.org/series/WPUSI012011)
+
+Housing Subsidies (Federal) - [https://fred.stlouisfed.org/series/L312051A027NBEA](https://fred.stlouisfed.org/series/L312051A027NBEA)
+
+Total households - https://fred.stlouisfed.org/series/TTLHH
 ---
 
 ## 📬 Contact
